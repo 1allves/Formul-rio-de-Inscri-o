@@ -1,2 +1,2 @@
-# Formul-rio-de-Inscri-o
+# Formulario-de-Inscricao
 Formulário de inscrição desenvolvido durante os estudos
